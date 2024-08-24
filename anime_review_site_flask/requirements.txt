@@ -1,0 +1,7 @@
+Flask
+PyMySQL
+Boto3
+SQLAlchemy
+flask_sqlalchemy
+Faker==9.8.1
+flask-cors
